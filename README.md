@@ -37,11 +37,3 @@ If you refer to or build upon this work, please cite:
 > GitHub repository: [https://github.com/andrehampshire/contrast-based-structural-dynamics](https://github.com/andrehampshire/contrast-based-structural-dynamics)
 
 ---
-
-## 🔖 Citation
-
-If you refer to or build upon this work, please cite:
-
-> Hampshire, A. (2025). *Contrast-Based Structural Dynamics: A Coordinate-Free Theory of Metric Emergence, Motion, and Time*. GitHub repository: [github.com/yourusername/contrast-physics](https://github.com/yourusername/contrast-physics)
-
----
