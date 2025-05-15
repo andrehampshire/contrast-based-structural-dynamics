@@ -36,4 +36,19 @@ If you refer to or build upon this work, please cite:
 > Hampshire, A. (2025). *Contrast-Based Structural Dynamics: A Coordinate-Free Theory of Metric Emergence, Motion, and Time*.  
 > GitHub repository: [https://github.com/andrehampshire/contrast-based-structural-dynamics](https://github.com/andrehampshire/contrast-based-structural-dynamics)
 
+
+<pre><code>
+## 📚 BibTeX
+
+```bibtex
+@misc{hampshire2025cbsd,
+  author       = {Hampshire, André},
+  title        = {Contrast-Based Structural Dynamics: A Coordinate-Free Theory of Metric Emergence, Motion, and Time},
+  year         = {2025},
+  howpublished = {\url{https://github.com/andrehampshire/contrast-based-structural-dynamics}},
+  note         = {Original theoretical framework},
+}
+```
+</code></pre>
+
 ---
