@@ -29,6 +29,13 @@ For inquiries, endorsements, or citation requests, contact:
 **André Hampshire**  
 📧 andrehampshire@gmail.com
 
+## 🔖 Citation
+
+If you refer to or build upon this work, please cite:
+
+> Hampshire, A. (2025). *Contrast-Based Structural Dynamics: A Coordinate-Free Theory of Metric Emergence, Motion, and Time*.  
+> GitHub repository: [https://github.com/andrehampshire/contrast-based-structural-dynamics](https://github.com/andrehampshire/contrast-based-structural-dynamics)
+
 ---
 
 ## 🔖 Citation
