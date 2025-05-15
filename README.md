@@ -50,6 +50,17 @@ If you refer to or build upon this work, please cite:
 
 ---
 
+## ⚖️ License
+
+This repository is licensed under the  
+**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+You may **share** and **cite** this work with attribution,  
+but you **may not** modify it or use it for commercial purposes.
+
+© 2025 André Hampshire. All rights reserved.  
+[View full license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## 📚 BibTeX
 
 ```bibtex
