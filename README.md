@@ -51,4 +51,5 @@ If you refer to or build upon this work, please cite:
 ```
 </code></pre>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15425807.svg)](https://doi.org/10.5281/zenodo.15425807)
 ---
